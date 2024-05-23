@@ -1,4 +1,4 @@
-[<img src="./https://github.com/Shasha0309/React-E-Commerce-Website.wiki.git" width="50px" alt="github-icon">](https://harshilshrma.github.io/alloc8/)<em>&nbsp; (Tap on this image to view the project)</em></span>
+[<img src="./https://github.com/Shasha0309/React-E-Commerce-Website/assets/137520769/78eb7417-671b-4bf9-9c69-890d5963cddf" width="50px" alt="github-icon">](https://harshilshrma.github.io/alloc8/)<em>&nbsp; (Tap on this image to view the project)</em></span>
 
 # Overview
 
