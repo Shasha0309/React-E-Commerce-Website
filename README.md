@@ -80,9 +80,5 @@ Thank you for checking out this project which dives deep into React, state manag
 Feel free to explore the code, contribute, or use it for your personal projects. Your feedback and contributions are always welcome.
 
 <p align="center">
-  <img src="./resources/ending_gif.gif" alt="ending GIF" width="250" />
-</p>
-
-<p align="center">
   Happy Shopping! 💸🛒
 </p>
