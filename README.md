@@ -10,7 +10,7 @@ Welcome to my **Project** – is a comprehensive e-commerce platform designed to
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,bootstrap,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,redux,bootstrap,git,github,vscode" />
   </a>
 </p>
 
@@ -52,6 +52,7 @@ To get a local copy up and running, follow these simple steps:
 
 This project includes the following features:
 <ul>
+    <li><strong>Log-In & Sing-Up pages:</strong>Only authorised/valid users can use the platform.</li>
     <li><strong>Dynamic filter & Search Options:</strong> Update according to the customer's interest in real-time.</li>
     <li><strong>Customer Review's:</strong> Every product showcase their customer reviews.</li>
     <li><strong>Cart Management:</strong> Add, reduce, or delete products in Cart with ease.</li>
@@ -64,6 +65,7 @@ This project includes the following features:
 
 Here are the key learnings from the Alloc8 project:
 <ul>
+    <li><strong>Authentication & Databse</strong>Learned to maintain security and ensuring database integrity.</li>
     <li><strong>React State Management:</strong> Mastered state management using React's context and hooks.</li>
     <li><strong>Component-based Architecture:</strong> Improved understanding of component-based architecture in React.</li>
     <li><strong>Curreny Support:</strong> Gained experience with currency support and it's handling.</li>
