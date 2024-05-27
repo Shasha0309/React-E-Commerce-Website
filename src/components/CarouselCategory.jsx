@@ -26,22 +26,22 @@ function CarouselCategory() {
         modules={[Navigation]}
       >
         <SwiperSlide  onClick={() => searchCategory("Deals")} className="cursor-pointer">
-          <img src={"../images/category_0.jpg"} />
+          <img src={"../images/category_0.jpg"} alt="1img"/>
         </SwiperSlide>
         <SwiperSlide  onClick={() => searchCategory("Amazon")} className="cursor-pointer">
-          <img src={"../images/category_1.jpg"} />
+          <img src={"../images/category_1.jpg"} alt="2img" />
         </SwiperSlide>
         <SwiperSlide onClick={() => searchCategory("Fashion")} className="cursor-pointer">
-          <img src={"../images/category_2.jpg"} />
+          <img src={"../images/category_2.jpg"} alt="3img" />
         </SwiperSlide>
         <SwiperSlide onClick={() => searchCategory("Computers")} className="cursor-pointer">
-          <img src={"../images/category_3.jpg"} />
+          <img src={"../images/category_3.jpg"} alt="4img"/>
         </SwiperSlide>
         <SwiperSlide onClick={() => searchCategory("Home")} className="cursor-pointer">
-          <img src={"../images/category_4.jpg"} />
+          <img src={"../images/category_4.jpg"}alt="5img" />
         </SwiperSlide>
         <SwiperSlide onClick={() => searchCategory("Mobiles")} className="cursor-pointer">
-          <img src={"../images/category_5.jpg"} />
+          <img src={"../images/category_5.jpg"} alt="6img"/>
         </SwiperSlide>
       </Swiper>
     </div>

@@ -20,7 +20,7 @@ function CarouselProduct() {
           <SwiperSlide key={i}>
             <Link to={`/product/${i}`}>
               <img
-                src={`../images/product_${i}_small.jpg`}
+                src={`../images/product_${i}_small.jpg`} alt="imgg"
               />
               </Link>
           </SwiperSlide>

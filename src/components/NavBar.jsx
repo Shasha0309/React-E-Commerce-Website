@@ -11,7 +11,7 @@ function NavBar() {
       <div className="flex bg-amazonclone text-white h-[60px]">
         {/* Left */}
         <div className="flex items-center m-4">
-            <Link to={"/"}>
+            <Link to={"/HomePage"}>
             <img
               className="h-[35px] w-[100px] m-2"
               src={"../images/amazon.png"}
@@ -30,7 +30,7 @@ function NavBar() {
         {/* Right */}
         <div className="flex items-center m-4">
           <div className="pr-4 pl-4">
-            <div className="text-xs xl:text-sm">Hello, sign in</div>
+            <div className="text-xs xl:text-sm">Hello,<Link to={"/"}>sign in</Link></div>
             <div className="text-sm xl:text-base font-bold">
               Accounts & Lists
             </div>
